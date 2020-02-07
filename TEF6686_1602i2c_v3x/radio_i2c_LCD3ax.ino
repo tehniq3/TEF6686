@@ -330,8 +330,10 @@ void displayInfo() {
     if (frequency < 10000) lcd.print(" ");
     lcd.print(frequency/100); 
     lcd.print(",");
-    lcd.print(frequency%100);
-    lcd.print("MHz");
+//    lcd.print(frequency%100);
+     lcd.print(frequency%100/10); // thanks to carkiller08
+    lcd.print(frequency%10);
+    lcd.print("MHz ");
     lcd.setCursor(0,1);
 //    lcd.print("vol.");
     lcd.write(1);  // speaker sign
