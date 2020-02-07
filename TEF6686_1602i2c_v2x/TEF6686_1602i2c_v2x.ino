@@ -9,6 +9,7 @@
 
 #include <Wire.h> 
 #include <LiquidCrystal_I2C.h>  // https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library
+                                // or an old version used by me, stored in https://github.com/tehniq3/used_library/tree/master/LiquidCrystal_I2C
 LiquidCrystal_I2C lcd(0x3F,20,4);  // set the LCD address to 0x27 for a 16 chars and 2 line display
 
 int frequency;
