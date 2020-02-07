@@ -34,12 +34,25 @@ RdsInfo rdsInfo;
 #define inainte 8
 #define inapoi 9
 
+/*
 byte antena[] = {   // https://maxpromer.github.io/LCD-Character-Creator/
   B10001,
   B10101,
   B10101,
   B01110,
   B00100,
+  B00100,
+  B00100,
+  B00100
+};
+*/
+  
+byte antena[] = {
+  B11111,
+  B10101,
+  B10101,
+  B01110,
+  B01110,
   B00100,
   B00100,
   B00100
