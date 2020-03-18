@@ -1,0 +1,14 @@
+NOTE:
+
+If you want to use with STM32F103 must change exiting WIRE library from local
+(e.g: C:\Users\niq_ro\Documents\Arduino\hardware\Arduino_STM32\STM32F1\libraries)
+with WIRE library from https://github.com/stm32duino/Arduino_Core_STM32/tree/master/libraries/Wire
+You can see details at https://nicuflorica.blogspot.com/2020/03/functionare-corecta-comunicatie-pe-i2c.html
+
+Best regrds,
+Nicu FLORICA (niq_ro)
+
+----------------------------------------------------------
+http://www.arduinotehniq.com
+http://nicuflorica.blogspot.ro/
+http://arduinotehniq.blogspot.com/
