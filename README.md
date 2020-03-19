@@ -10,3 +10,5 @@ my article https://nicuflorica.blogspot.com/2020/02/radio-cu-tef6686.html
 another article (for STM32F103): https://nicuflorica.blogspot.com/2020/03/radio-cu-tef6686-si-stm32f103.html
 
 ![TEF6686 STM32F103](https://1.bp.blogspot.com/-SKwZ6mT2DU4/XnHXvQXMkEI/AAAAAAAAbk8/D959NTBnklUSlKTTBVhdSl23CuxfimdcwCLcBGAsYHQ/s1600/radioTEF6686_01.jpg)
+
+![cu STM32](https://1.bp.blogspot.com/-aV1aZunmwKQ/XnIbLJMcXWI/AAAAAAAAbnQ/1Mp0ky_ybMA32WvERR5HgH1XBJeIZ6UzQCLcBGAsYHQ/s1600/TEF6686_STM32F103_i2c_LCD1602.png)
