@@ -1,12 +1,12 @@
 //TEF6686HN/V102 xdr-gtk控制程序
 //作者 eggplant886
-// rds add by stailus
+// rds add by stailus - base from https://github.com/stailus/tef6686_rds
 // niq_ro added some switches using stailus hints
 // niq_ro added encoder for volume
 // niq_ro added LCD2004 (i2c) 
 // niq_ro added RT and PI from RDS data using (again) hints from stailus
 // niq_addded PTY
-// niq_ro added RT from makserge
+// niq_ro added RT from makserge - https://github.com/makserge/tef6686_radio
 
 #include <Wire.h>
 #include <Arduino.h>
